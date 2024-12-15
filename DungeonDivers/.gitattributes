@@ -1,8 +1,4 @@
-# Ensure all text files use LF
 * text=auto
-
-# Unity-specific files
-*.meta text eol=lf
-*.cs text eol=lf
-*.shader text eol=lf
-*.unity text eol=lf
+*.cs eol=lf
+*.sh eol=lf
+*.bat eol=crlf
